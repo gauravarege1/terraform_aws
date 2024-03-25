@@ -1,3 +1,2 @@
 hello 
-indian
-
+how  
