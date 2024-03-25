@@ -1,0 +1,11 @@
+--- #loops
+- hosts: web
+  become: yes
+  tasks:
+    - name: users creation 
+      user: name='{{item}}' state=present
+      with_items:
+         - abc
+         - priyal
+         - p
+         - suraj
