@@ -4,7 +4,3 @@ af
 df
 dfd
 dfdfd
-df
-df
-dafdf
-ddffdfdf
